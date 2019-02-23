@@ -1,3 +1,3 @@
-#weekday 23.57，update stock db
-57 23 * * 1-5 script_path >output  2>error
+#weekday 21.30，update stock db
+30 21 * * 1-5 script_path(daily.py) >output  2>error
 
